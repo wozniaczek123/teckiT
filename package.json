@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.3.1"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "type": "module",
+  "name": "tekciT",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "CeTek",
+  "license": "MIT",
+  "description": "Discord Bot"
+}

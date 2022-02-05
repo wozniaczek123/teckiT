@@ -1,3 +1,6 @@
+# Other stuff
+package-lock.json
+.idea/
 # Logs
 logs
 *.log
